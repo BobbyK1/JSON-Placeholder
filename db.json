@@ -1,73 +1,71 @@
-[
-    {
-        "id": "01",
-        "name": "Bobby Karamacoski",
-        "email": "marbobkara@gmail.com",
-        "phone": "(219) 779-5752",
-        "address": "11866 Mount St, Crown Point, IN 46307"
-    },
-    {
-        "id": "02",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "phone": "(219) 555-1234",
-        "address": "555 Main St, Schererville, IN 46375"
-    },
+{
+    "id": "01",
+    "name": "Bobby Karamacoski",
+    "email": "marbobkara@gmail.com",
+    "phone": "(219) 779-5752",
+    "address": "11866 Mount St, Crown Point, IN 46307"
+},
+{
+    "id": "02",
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "(219) 555-1234",
+    "address": "555 Main St, Schererville, IN 46375"
+},
 
-    {
-        "id": "01",
-        "name": "Bobby Karamacoski",
-        "email": "marbobkara@gmail.com",
-        "phone": "(219) 779-5752",
-        "address": "11866 Mount St, Crown Point, IN 46307"
-    },
-    {
-        "id": "02",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "phone": "(219) 555-1234",
-        "address": "555 Main St, Schererville, IN 46375"
-    },
-    {
-        "id": "01",
-        "name": "Bobby Karamacoski",
-        "email": "marbobkara@gmail.com",
-        "phone": "(219) 779-5752",
-        "address": "11866 Mount St, Crown Point, IN 46307"
-    },
-    {
-        "id": "02",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "phone": "(219) 555-1234",
-        "address": "555 Main St, Schererville, IN 46375"
-    },
-    {
-        "id": "01",
-        "name": "Bobby Karamacoski",
-        "email": "marbobkara@gmail.com",
-        "phone": "(219) 779-5752",
-        "address": "11866 Mount St, Crown Point, IN 46307"
-    },
-    {
-        "id": "02",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "phone": "(219) 555-1234",
-        "address": "555 Main St, Schererville, IN 46375"
-    },
-    {
-        "id": "01",
-        "name": "Bobby Karamacoski",
-        "email": "marbobkara@gmail.com",
-        "phone": "(219) 779-5752",
-        "address": "11866 Mount St, Crown Point, IN 46307"
-    },
-    {
-        "id": "02",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "phone": "(219) 555-1234",
-        "address": "555 Main St, Schererville, IN 46375"
-    },
-]
+{
+    "id": "01",
+    "name": "Bobby Karamacoski",
+    "email": "marbobkara@gmail.com",
+    "phone": "(219) 779-5752",
+    "address": "11866 Mount St, Crown Point, IN 46307"
+},
+{
+    "id": "02",
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "(219) 555-1234",
+    "address": "555 Main St, Schererville, IN 46375"
+},
+{
+    "id": "01",
+    "name": "Bobby Karamacoski",
+    "email": "marbobkara@gmail.com",
+    "phone": "(219) 779-5752",
+    "address": "11866 Mount St, Crown Point, IN 46307"
+},
+{
+    "id": "02",
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "(219) 555-1234",
+    "address": "555 Main St, Schererville, IN 46375"
+},
+{
+    "id": "01",
+    "name": "Bobby Karamacoski",
+    "email": "marbobkara@gmail.com",
+    "phone": "(219) 779-5752",
+    "address": "11866 Mount St, Crown Point, IN 46307"
+},
+{
+    "id": "02",
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "(219) 555-1234",
+    "address": "555 Main St, Schererville, IN 46375"
+},
+{
+    "id": "01",
+    "name": "Bobby Karamacoski",
+    "email": "marbobkara@gmail.com",
+    "phone": "(219) 779-5752",
+    "address": "11866 Mount St, Crown Point, IN 46307"
+},
+{
+    "id": "02",
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "phone": "(219) 555-1234",
+    "address": "555 Main St, Schererville, IN 46375"
+}
